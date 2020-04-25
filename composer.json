@@ -1,0 +1,15 @@
+{
+    "name": "tinyframe/imagefont",
+    "description": "This is tinyframe imagefont resource",
+    "type": "project",
+    "keywords": [
+        "tinyframe",
+		"字体文件"
+    ],
+    "authors": [
+        {
+            "name": "mrye",
+            "email": "55585190@qq.com"
+        }
+    ]
+}
