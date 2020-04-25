@@ -1,7 +1,6 @@
 {
     "name": "tinyframe/imagefont",
     "description": "This is tinyframe imagefont resource",
-    "type": "project",
     "keywords": [
         "tinyframe",
 		"字体文件"
